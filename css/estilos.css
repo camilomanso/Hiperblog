@@ -1,7 +1,7 @@
 body
 {
-<<<<<<< HEAD
-    color: navy;
+
+    color: blue;
     text-align: center;
     font-family: "Arial";
 }
@@ -10,7 +10,7 @@ body
     width: 70%;
     padding: inherit;
     text-align: left;
-=======
+
     color: #333;
     text-align: center;
     font-family: "Arial";
@@ -43,7 +43,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
->>>>>>> cabecera
+
 
 }
 #container h1
